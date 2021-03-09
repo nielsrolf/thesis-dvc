@@ -1,0 +1,5 @@
+outs:
+- md5: 503a2d349f8a722e8b7036e8e9720fd0.dir
+  size: 4338084520
+  nfiles: 150
+  path: urmp-mono
